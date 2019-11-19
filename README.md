@@ -1,6 +1,4 @@
-## Package
-
-### OCR Service
+### OCR Service (Docker)
 
 1. Login
 
