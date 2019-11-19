@@ -1,1 +1,13 @@
 ## Package
+
+### OCR Service
+
+```yml
+version: "3"
+
+services:
+  ocr-service:
+    image: docker.pkg.github.com/bcircle/open-package/ocr-service:0.1
+    ports:
+      - 3000:3000
+```
